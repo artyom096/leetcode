@@ -21,4 +21,3 @@ var heightChecker = function (heights) {
   return res;
 };
 
-console.log(heightChecker(heights));
